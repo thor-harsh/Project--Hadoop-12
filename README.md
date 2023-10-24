@@ -9,7 +9,9 @@
 
  **What is Apache Spark and What is Spark Streaming?**
 
- Apache Spark is an open-source unified analytics engine for large-scale data processing. Spark provides an interface for programming clusters with implicit data parallelism and fault tolerance
+ Apache Spark is an open-source unified analytics engine for large-scale data processing. Spark provides an interface for programming clusters with implicit data parallelism and fault tolerance.
+
+Apache Spark Streaming is a scalable fault-tolerant streaming processing system that natively supports both batch and streaming workloads. 
 
 
 </table>
