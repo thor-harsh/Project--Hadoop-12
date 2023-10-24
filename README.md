@@ -14,12 +14,12 @@
 
 Apache Spark Streaming is a scalable fault-tolerant streaming processing system that natively supports both batch and streaming workloads.
 
-**What is Flume?**
+**What is Flume**?<br></br>
 
 Apache Flume is a distributed, reliable, and available software for efficiently collecting, aggregating, and moving large amounts of log data. It has a simple and flexible architecture based on streaming data flows.
 
 
-**Brief Layout of Project**
+**Brief Layout of Project**<br></br>
 
 Initially we will set up a log directory.We will keep track of data movement on real time for that directory using Flume Source which is Spool used here.
 
