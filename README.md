@@ -5,7 +5,7 @@
  
   **In this project we will use Spark Streaming for doing analysis of data in real time with the help of Flume which is gonna be an amazing stuff to have in your toolkit.**
 
- Lets dive into learning about Spark and Flume first before jumping to the code..
+ Lets dive into learning about Spark and Flume first before jumping to the code...
 
  **What is Apache Spark and What is Spark Streaming?**
 
