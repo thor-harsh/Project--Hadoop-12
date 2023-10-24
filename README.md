@@ -11,7 +11,11 @@
 
  Apache Spark is an open-source unified analytics engine for large-scale data processing. Spark provides an interface for programming clusters with implicit data parallelism and fault tolerance.
 
-Apache Spark Streaming is a scalable fault-tolerant streaming processing system that natively supports both batch and streaming workloads. 
+Apache Spark Streaming is a scalable fault-tolerant streaming processing system that natively supports both batch and streaming workloads.
+
+**What is Flume>**
+
+Apache Flume is a distributed, reliable, and available software for efficiently collecting, aggregating, and moving large amounts of log data. It has a simple and flexible architecture based on streaming data flows.
 
 
 </table>
